@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import upload from "./components/upload.vue";
+import upload from "./components/upload-img.vue";
 export default {
   name: 'app',
   data () {
